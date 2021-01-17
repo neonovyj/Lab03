@@ -1,7 +1,6 @@
 // Copyright 2020 ivan <ikhonyak@gmail.com>
 
 #include <gtest/gtest.h>
-
 #include <SharedPtr.hpp>
 #include <type_traits>
 
