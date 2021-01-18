@@ -127,4 +127,4 @@ auto SharedPtr<T>::use_count() const -> std::size_t {
   if (counter == nullptr) return 0;
   return *counter;
 }
-#endif  // INCLUDE_HEADER_HPP_
+#endif  // INCLUDE_SHAREDPTR_HPP_
