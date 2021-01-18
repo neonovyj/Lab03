@@ -1,3 +1,3 @@
-// Copyright 2020 Your Name <your_email>
+// Copyright 2020 ivan <ikhonyak@gmail.com>
 
-#include <header.hpp>
+#include <SharedPtr.hpp>
